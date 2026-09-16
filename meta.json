@@ -1,0 +1,23 @@
+{
+  "repo": "poweriso-ultra",
+  "product": "PowerISO Ultra",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "disk-image",
+  "topics": [
+    "poweriso-ultra",
+    "iso-editor-desktop",
+    "usb-burn-tools",
+    "poweriso-windows",
+    "disk-image-2026",
+    "how-to-install-poweriso",
+    "poweriso-desktop-package",
+    "virtual-drive-suite",
+    "iso-convert-desk",
+    "poweriso-ultra-edition"
+  ],
+  "site": "toolix.me"
+}
